@@ -34,6 +34,13 @@ The goal is to understand Unreal Engine’s gameplay framework and AI systems, n
 - Socket-based weapon mounting
 - Basic audio variation via Meta Sound
 
+## Demo
+
+You can view the gameplay preview here:
+
+[Click to watch demo video](./IMG_2487.mp4)
+
+
 ## Tutorial Reference
 
 This project follows the FPS tutorial series by GorkaGames on YouTube:
